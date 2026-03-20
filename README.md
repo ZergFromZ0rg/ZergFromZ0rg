@@ -1,20 +1,18 @@
-# 👋 Hi, I'm Boris
-
-🎓 University of Waterloo - Honours Bachelor of Mathematics (Co-op)
-
-📊 Joint Major in Statistics & Computational Mathematics
+# 👋 Hi There!
 
 ---
 
 ## 🚀 About Me
 
-I’m a third-year Mathematics student with a strong focus on building **data-driven and AI-powered applications**.
+📊 Joint Major in Statistics & Computational Mathematics  
 
-I'm comfortable with: concept → backend → UI → usable product
+🎓 Third-year Mathematics student focused on building data-driven and AI-powered systems  
 
-* 💡 Interested in AI, data systems, and full-stack development
-* 🛠️ Experienced in building complete applications (not just scripts)
-* 📈 Currently improving my skills in data analysis, system design, and software engineering
+🛠️ Skills: Python, JavaScript, C++, Machine Learning, Data Analysis, Full-Stack Development  
+
+📈 Built projects involving semantic analysis, OCR, statistical validation, and AI-powered analysis  
+
+🎯 Interested in Software Engineering, Data Science, and AI-focused roles
 
 ---
 
@@ -34,18 +32,6 @@ I'm comfortable with: concept → backend → UI → usable product
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
-
----
-
-## 🔥 Current Project(s)
-
-### 📌 SynapseGraph
-
-* A conversational intelligence system representing dialogue as a multi-parent graph with temporal and semantic relationships
-
-* Integrated vector embeddings to dynamically link semantically related messages across distant conversation turns
-
-* Designed a hybrid retrieval system combining graph traversal and similarity search for context-aware reasoning
 
 ---
 
