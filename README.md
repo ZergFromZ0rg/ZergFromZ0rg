@@ -37,10 +37,12 @@ concept → backend → UI → usable product
 
 ## 🔥 Current Project(s)
 
-### SynapseGraph
+### 📌 SynapseGraph
 
 * A conversational intelligence system representing dialogue as a multi-parent graph with temporal and semantic relationships
+
 * Integrated vector embeddings to dynamically link semantically related messages across distant conversation turns
+
 * Designed a hybrid retrieval system combining graph traversal and similarity search for context-aware reasoning
 
 ---
@@ -49,12 +51,6 @@ concept → backend → UI → usable product
 
 * 💼 LinkedIn: www.linkedin.com/in/boris-sapojnikov
 * 📧 Email: basapojn@uwaterloo.ca
-
----
-
-## ⚡ Fun Fact
-
-I like building systems that *actually work end-to-end* — not just theory, but real usable tools.
 
 ---
 
