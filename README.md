@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Boris
 
 🎓 University of Waterloo - Honours Bachelor of Mathematics (Co-op)
+
 📊 Joint Major in Statistics & Computational Mathematics
 
 ---
