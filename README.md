@@ -9,7 +9,8 @@
 ## 🚀 About Me
 
 I’m a third-year Mathematics student with a strong focus on building **data-driven and AI-powered applications**.
-concept → backend → UI → usable product
+
+I'm comfortable with: concept → backend → UI → usable product
 
 * 💡 Interested in AI, data systems, and full-stack development
 * 🛠️ Experienced in building complete applications (not just scripts)
