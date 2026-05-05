@@ -4,13 +4,11 @@
 
 ## 🚀 About Me
 
-📊 Joint Major in Statistics & Computational Mathematics  
+📊 Joint Major in Scientific ML & Computational Mathematics  
 
 🎓 Third-year Mathematics student focused on building data-driven and AI-powered systems  
 
 🛠️ Skills: Python, JavaScript, C++, Machine Learning, Data Analysis, Full-Stack Development  
-
-📈 Built projects involving semantic analysis, OCR, statistical validation, and AI-powered analysis  
 
 🎯 Interested in Software Engineering, Data Science, and AI-focused roles
 
