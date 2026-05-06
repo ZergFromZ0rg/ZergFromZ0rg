@@ -1,22 +1,22 @@
-# 👋 Hi There!
+# Hi
 
 ---
 
-## 🚀 About Me
+## About Me
 
-📊 Joint Major in Scientific ML & Computational Mathematics  
+~ Joint Major in Scientific ML & Computational Mathematics  
 
-🎓 Third-year Mathematics student focused on building data-driven and AI-powered systems  
+~ Third-year Mathematics student focused on building data-driven and AI-powered systems  
 
-🛠️ Skills: Python, JavaScript, C++, Machine Learning, Data Analysis, Full-Stack Development  
+~ Skills: Python, JavaScript, C++, Machine Learning, Data Analysis, Full-Stack Development  
 
-🎯 Interested in Software Engineering, Data Science, and AI-focused roles
+~ Interested in Software Engineering, Data Science, and AI-focused roles
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### ~ Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,7 +24,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### ⚙️ Tools & Frameworks
+### ~ Tools & Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
@@ -33,10 +33,10 @@
 
 ---
 
-## 📫 Connect With Me
+## ~ Connect With Me
 
-* 💼 LinkedIn: www.linkedin.com/in/boris-sapojnikov
-* 📧 Email: basapojn@uwaterloo.ca
+* LinkedIn: www.linkedin.com/in/boris-sapojnikov
+* Email: basapojn@uwaterloo.ca
 
 ---
 
