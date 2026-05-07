@@ -14,17 +14,11 @@
 
 ### ~ Languages
 
-![Python]
-![JavaScript]
-![HTML]
-![CSS]
-![R]
+Python, JavaScript, HTML, CSS, R
 
 ### ~ Tools & Frameworks
 
-![React]
-![Node.js]
-![FastAPI]
+React, Node.js, FastAPI, Docker
 
 ---
 
