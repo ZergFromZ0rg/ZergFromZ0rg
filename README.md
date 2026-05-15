@@ -1,12 +1,6 @@
 ## About Me
 
-~ Joint Major in Scientific ML & Computational Mathematics  
-
-~ Third-year Mathematics student focused on building data-driven and AI-powered systems  
-
-~ Skills: Python, JavaScript, C++, Machine Learning, Data Analysis, Full-Stack Development  
-
-~ Interested in Software Engineering, Data Science, and AI-focused roles
+Python, JavaScript, C++, Machine Learning, Data Analysis, Full-Stack Development  
 
 ---
 
